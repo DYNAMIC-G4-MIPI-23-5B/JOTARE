@@ -4,12 +4,12 @@
 Notre sujet porte sur l’étude des effets de la propagation d’un gène dans une population. <br/>
 Notre méthodolgie de travail se dessine ainsi : <br/>
 D'abord, nous allons définir les caractéristiques initiales de notre gène : <br/>
-<ul> le gène (ses effets sur l’individu porteur, sur sa propagation) </ul>
-<ul> la population originale à étudier (taille, part de porteur du gène) </ul>
-<ul> les individus à l’origine (leurs phénotypes qui risquent d’évoluer avec le gène) </ul><br/>
+<ul> ¤ le gène (ses effets sur l’individu porteur, sur sa propagation) </ul>
+<ul> ¤ la population originale à étudier (taille, part de porteur du gène) </ul>
+<ul> ¤ les individus à l’origine (leurs phénotypes qui risquent d’évoluer avec le gène) </ul>
 Ensuite, dans un second temps, nous allons créer un programme qui : <br/>
-<ul> modélisera l’évolution de la population à partir des conditions initiales </ul>
-<ul> affichera les résultats de la modélisation </ul> <br/>
+<ul> ¤ modélisera l’évolution de la population à partir des conditions initiales </ul>
+<ul> ¤ affichera les résultats de la modélisation </ul> <br/>
 Enfin nous terminerons notre étude par une conclusion sur ces résultats.<br/>
 
 
