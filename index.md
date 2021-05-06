@@ -1,3 +1,7 @@
+<header>
+   Placez ici le contenu de l'en-tête de votre page
+</header>
+
 # Nom du projet
 
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
@@ -30,6 +34,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
+
 
 ## Bibliographie :
 
