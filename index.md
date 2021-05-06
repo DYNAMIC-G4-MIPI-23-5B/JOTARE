@@ -2,42 +2,53 @@
    Placez ici le contenu de l'en-tête de votre page
 </header>
 
-# Nom du projet
+# Etude des effets de la propagation d’un gène dans une population 
 
-Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
+Notre sujet porte sur l’étude des effets de la propagation d’un gène dans une population.
+Notre méthodolgie de travail se dessine ainsi : 
+D'abord, nous allons définir les caractéristiques initiales de notre gène : 
+→ le gène (ses effets sur l’individu porteur, sur sa propagation) 
+→ la population originale à étudier (taille, part de porteur du gène) 
+→ les individus à l’origine (leurs phénotypes qui risquent d’évoluer avec le gène) 
+Ensuite, dans un second temps, nous allons créer un programme qui : 
+→ modélisera l’évolution de la population à partir des conditions initiales 
+→ affichera les résultats de la modélisation 
+Enfin nous terminerons notre étude par une conclusion sur ces résultats.
 
-## English version
+### English version
 
-Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
+A gene is a defined unit located on a chromosome, through which a hereditary trait is transmitted. The collection of genes in an individual is called a genotype. This generates what is called the phenotype, which is the set of observable characters in an individual. A particular gene will code for one or more particular traits of an individual. This will influence his physiognomy, perhaps his ability to reproduce, and finally his ability to transmit this gene again to his offspring. A whole population can therefore be impacted by a single gene which will propagate differently under different conditions. We will study how this gene spreads under these conditions.
 
-## Présentation de l'équipe
+## Notre travail :
 
-|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
-|-----|--|--|--|
-| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
+### Présentation de l'équipe
 
+Notre équipe composée de KOBANA Johan, DE MYTTENAERE Thomas et CISSE Ousmane s'appelle JOTARE. Nous travaillons dans le cadre de l'atelier DYNAMIC de l'UE ARE.
 
-## Description synthétique du projet
+### Description synthétique du projet
 
-**Problématique :** 
+**Problématique :** comment un gène (aux caractéristiques bien définies) se propage-t-il au sein d’une population ? 
 
-**Hypothèse principale :**
+**Hypothèse principale :** Si la possesion de ce gène améliore la fertilité ou l'esperance de vie, alors la population grandira et vivra plus longtemps.
 
 **Hypothèses secondaires :** 
 
-**Objectifs :**
+**Objectifs :** Modéliser l'évolution d'une population ainsi que l'évolution d'un gène au sein de cette population afin de mettre en évidence notre hypothèse.
 
-**Critère(s) d'évaluation :**
+**Critère(s) d'évaluation :** JSP
 
-## Présentation structurée des résultats
+### Présentation structurée des résultats
 
-Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
+**Modélisation :**
+
+Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) 
+
+**Analyse :**
+
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
 
+## Lien vers la bibliographie : <a href="blog.html"> C'est par là ! </a>
 
-## Bibliographie :
+## Lien vers notre code : <a href="blog.html"> Viens ! </a>
 
-**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
-
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
