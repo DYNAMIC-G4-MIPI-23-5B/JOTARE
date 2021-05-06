@@ -1,4 +1,4 @@
-# Travail effectué chaque semaine pendant le semestre en ARE
+# Travail par semaine pendant le semestre en ARE
 
 ### Semaine 1 (vendredi 5 février 2021 - présentiel)
 
@@ -13,13 +13,26 @@ Création des groupes pour le projet : notre groupe se nomme donc JOTARE et est 
 Poursuite du travail sur le modèle de Schelling.
 
 ### Semaine 4 (vendredi 5 mars 2021 - distanciel)
-Brainstorming sur les thèmes possibles. Les idées sont les suivantes
+Création des groupes pour le projet. Finalisation des travaux sur le modèle de Schelling pour la soumission le dimanche. 
 
 ### Semaine 5 (ven. 12 mars 2021 - présentiel)
+Introduction au site GitHub et création de nos comptes. <br/>
+Brainstorming sur les thèmes possibles. Les idées sont les suivantes : <br/>
+  ¤ propagation d'un gène au sein d'une population  <br/>
+  ¤ traffic ferroviaire  <br/>
+  ¤ déplacements de bancs de poissons dans l'eau <br/>
 
-### Semaine 4
-### Semaine 4
-### Semaine 4
+### Semaine 6 (ven. 19 mars 2021 - distanciel)
+Présentation orale (sur discord) de 3 minutes sur notre sujet et sur notre projet. A l'issue de cette séance, après avoir discuté avec l'enseignant, nous avons décidé d'étudier le sujet de la génétique. Recherches sur le sujet.
+
+### Semaine 7 (ven. 26 mars 2021 - présentiel)
+Programmation de fonctions permettant de modéliser notre problème.
+
+### Semaine 9 (ven. 02 avril 2021 - distanciel)
+
+### Semaine 10 (ven. 09 avril 2021 - présentiel)
+
+### Semaine 11 (ven. 16 avril 2021 - distanciel)
 
 
 <a href="index.html"> Retour à l'accueil </a>
