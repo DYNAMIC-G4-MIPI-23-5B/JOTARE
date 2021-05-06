@@ -22,4 +22,4 @@ Brainstorming sur les thèmes possibles. Les idées sont les suivantes
 ### Semaine 4
 
 
-<a href="index.html"> Retour à la page principale </a>
+<a href="index.html"> Retour à l'accueil </a>
