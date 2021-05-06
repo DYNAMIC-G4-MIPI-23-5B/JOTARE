@@ -1,4 +1,4 @@
-# Etude des effets de la propagation d’un gène dans une population 
+# Etude de la propagation d’un gène dans une population 
 
 
 Notre sujet porte sur l’étude des effets de la propagation d’un gène dans une population.
