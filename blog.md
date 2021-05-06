@@ -23,16 +23,19 @@ Brainstorming sur les thèmes possibles. Les idées sont les suivantes : <br/>
   ¤ déplacements de bancs de poissons dans l'eau <br/>
 
 ### Semaine 6 (ven. 19 mars 2021 - distanciel)
-Présentation orale (sur discord) de 3 minutes sur notre sujet et sur notre projet. A l'issue de cette séance, après avoir discuté avec l'enseignant, nous avons décidé d'étudier le sujet de la génétique. Recherches sur le sujet.
+Présentation orale (sur discord) de 3 minutes sur notre sujet et sur notre projet. A l'issue de cette séance, après avoir discuté avec l'enseignant, nous avons décidé d'étudier le sujet de la génétique. Recherches sur le sujet. Création de notre journal de bord de recherche bibliographique.
 
 ### Semaine 7 (ven. 26 mars 2021 - présentiel)
-Programmation de fonctions permettant de modéliser notre problème.
+Programmation de fonctions permettant de modéliser notre problème. Création de notre journal de bord de recherche bibliographique (à rendre pour le 29 mars).
 
 ### Semaine 9 (ven. 02 avril 2021 - distanciel)
+Programmation de fonctions permettant de modéliser notre problème.
 
-### Semaine 10 (ven. 09 avril 2021 - présentiel)
+### Semaine 9 (ven. 09 avril 2021 - présentiel)
+Programmation de fonctions permettant de modéliser notre problème. Poursuite de la réalisation du projet.
 
-### Semaine 11 (ven. 16 avril 2021 - distanciel)
+### Semaine 10 (ven. 16 avril 2021 - distanciel)
+Programmation de fonctions permettant de modéliser notre problème. Poursuite de la réalisation du projet. <br/>
 
 
 <a href="index.html"> Retour à l'accueil </a>
