@@ -13,8 +13,10 @@ Création des groupes pour le projet : notre groupe se nomme donc JOTARE et est 
 Poursuite du travail sur le modèle de Schelling.
 
 ### Semaine 4 (vendredi 5 mars 2021 - distanciel)
-Brainstorming sur les thèmes possibles 
-### Semaine 5
+Brainstorming sur les thèmes possibles. Les idées sont les suivantes
+
+### Semaine 5 (ven. 12 mars 2021 - présentiel)
+
 ### Semaine 4
 ### Semaine 4
 ### Semaine 4
