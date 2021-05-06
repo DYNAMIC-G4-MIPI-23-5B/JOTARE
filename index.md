@@ -1,5 +1,6 @@
 # Etude des effets de la propagation d’un gène dans une population 
 
+
 Notre sujet porte sur l’étude des effets de la propagation d’un gène dans une population.
 Notre méthodolgie de travail se dessine ainsi : 
 D'abord, nous allons définir les caractéristiques initiales de notre gène : 
@@ -11,15 +12,18 @@ Ensuite, dans un second temps, nous allons créer un programme qui :
 → affichera les résultats de la modélisation 
 Enfin nous terminerons notre étude par une conclusion sur ces résultats.
 
+
 ### English version
 
 A gene is a defined unit located on a chromosome, through which a hereditary trait is transmitted. The collection of genes in an individual is called a genotype. This generates what is called the phenotype, which is the set of observable characters in an individual. A particular gene will code for one or more particular traits of an individual. This will influence his physiognomy, perhaps his ability to reproduce, and finally his ability to transmit this gene again to his offspring. A whole population can therefore be impacted by a single gene which will propagate differently under different conditions. We will study how this gene spreads under these conditions.
+
 
 ## Notre travail :
 
 ### Présentation de l'équipe
 
 Notre équipe composée de KOBANA Johan, DE MYTTENAERE Thomas et CISSE Ousmane s'appelle JOTARE. Nous travaillons dans le cadre de l'atelier DYNAMIC de l'UE ARE.
+
 
 ### Description synthétique du projet
 
@@ -33,13 +37,16 @@ Notre équipe composée de KOBANA Johan, DE MYTTENAERE Thomas et CISSE Ousmane s
 
 **Critère(s) d'évaluation :** JSP
 
+
 ### Présentation structurée des résultats
+
 
 **Modélisation :**
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) 
 
 **Analyse :**
+
 
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
