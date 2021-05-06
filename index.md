@@ -1,7 +1,3 @@
-<header>
-   Placez ici le contenu de l'en-tête de votre page
-</header>
-
 # Etude des effets de la propagation d’un gène dans une population 
 
 Notre sujet porte sur l’étude des effets de la propagation d’un gène dans une population.
@@ -48,7 +44,7 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
 
-## Lien vers la bibliographie : <a href="blog.html"> C'est par là ! </a>
+## Lien vers la bibliographie : <a href="biblio.html"> C'est par là ! </a>
 
-## Lien vers notre code : <a href="blog.html"> Viens ! </a>
+## Lien vers notre code : <a href="code.html"> Viens ! </a>
 
