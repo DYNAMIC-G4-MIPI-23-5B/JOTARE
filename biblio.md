@@ -29,3 +29,7 @@ CISSE : 28711951  MIPI 23-5B KOBANA : 28716896  LUASXARES2 De MYTTENAERE : 28711
 • Mathematical and computational challenges in population biology and ecosystems science  -  Simon A. Levin*, Bryan Grenfell, Alan Hastings, Alan S. Perelson Mathematical and Computational Challenges in Population Biology and Ecosystems Science | Science (sciencemag.org) 
  
 • Mathematical models for society and biology  -  Edward Beltami Mathematical Models for Society and Biology - 1st Edition (elsevier.com) 
+
+
+
+<a href="index.html"> Retour à l'accueil </a>
