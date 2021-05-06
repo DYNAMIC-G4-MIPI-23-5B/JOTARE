@@ -1,16 +1,16 @@
 # Etude de la propagation d’un gène dans une population 
 
 
-Notre sujet porte sur l’étude des effets de la propagation d’un gène dans une population.
-Notre méthodolgie de travail se dessine ainsi : 
-D'abord, nous allons définir les caractéristiques initiales de notre gène : 
-→ le gène (ses effets sur l’individu porteur, sur sa propagation) 
-→ la population originale à étudier (taille, part de porteur du gène) 
-→ les individus à l’origine (leurs phénotypes qui risquent d’évoluer avec le gène) 
-Ensuite, dans un second temps, nous allons créer un programme qui : 
-→ modélisera l’évolution de la population à partir des conditions initiales 
-→ affichera les résultats de la modélisation 
-Enfin nous terminerons notre étude par une conclusion sur ces résultats.
+Notre sujet porte sur l’étude des effets de la propagation d’un gène dans une population. <br/>
+Notre méthodolgie de travail se dessine ainsi : <br/>
+D'abord, nous allons définir les caractéristiques initiales de notre gène : <br/>
+<ul> le gène (ses effets sur l’individu porteur, sur sa propagation) </ul>
+<ul> la population originale à étudier (taille, part de porteur du gène) </ul>
+<ul> les individus à l’origine (leurs phénotypes qui risquent d’évoluer avec le gène) </ul><br/>
+Ensuite, dans un second temps, nous allons créer un programme qui : <br/>
+<ul> modélisera l’évolution de la population à partir des conditions initiales </ul>
+<ul> affichera les résultats de la modélisation </ul> <br/>
+Enfin nous terminerons notre étude par une conclusion sur ces résultats.<br/>
 
 
 ### English version
@@ -22,7 +22,7 @@ A gene is a defined unit located on a chromosome, through which a hereditary tra
 
 ### Présentation de l'équipe
 
-Notre équipe composée de KOBANA Johan, DE MYTTENAERE Thomas et CISSE Ousmane s'appelle JOTARE. Nous travaillons dans le cadre de l'atelier DYNAMIC de l'UE ARE.
+Notre équipe composée de KOBANA Johan, DE MYTTENAERE Thomas et CISSE Ousmane s'appelle JOTARE. Nous travaillons dans le cadre de l'atelier DYNAMIC de l'UE ARE. 
 
 
 ### Description synthétique du projet
