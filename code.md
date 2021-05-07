@@ -1,6 +1,8 @@
 # Notre code Python
 <br/>
 
+<p>
+
 import matplotlib.pyplot as plt
 import numpy as np
 In [14]:
@@ -20,6 +22,7 @@ def esperence(moy, maxi):
 def naissance (esperence, mutation, sexe):
     return individu(0, esperance, mutation, sexe)
 In [15]:
+
 def genere_indiv(maxi, proba_mut):
     """Appelé par la fonction init_popu
     Renvoie un individu dont les paramètres sont définis aléatoirement (l'espérence est entre 0 et max et il a proba_mut*2 chances de posséder la mutation)"""
@@ -45,19 +48,7 @@ def init_popu(nb_indiv,taille_cases, maxi, proba_mut):
     pop=np.array([genere_indiv(maxi,proba_mut) for e in range(0,nb_indiv)])
     return np.reshape(pop, (-1,nb_indiv))
 
-init_popu(10,2,10, 2)
-#genere_indiv(10, 40)
-Out[15]:
-array([[<__main__.individu object at 0x00000259C1D7B670>,
-        <__main__.individu object at 0x00000259C1D7B6A0>,
-        <__main__.individu object at 0x00000259C1D7B790>,
-        <__main__.individu object at 0x00000259C1D7B460>,
-        <__main__.individu object at 0x00000259C1D7B7C0>,
-        <__main__.individu object at 0x00000259C1D7B880>,
-        <__main__.individu object at 0x00000259C1D7B8E0>,
-        <__main__.individu object at 0x00000259C1D7B640>,
-        <__main__.individu object at 0x00000259C1D7B970>,
-        <__main__.individu object at 0x00000259C1D7BA00>]], dtype=object)
+
 In [ ]:
 def fecondation(male, femelle, dominant, avantage, moy, maxi)->naissance:
    """
@@ -177,6 +168,9 @@ def evolution(nb_annees,  pop,  nb_inidv,taille_cases,proba_mut,   fertil_inf, f
         nb_annees-=1
     
     return pop
+
+<p/>
+
 <a href="notrenotebook-checkpoint.ipynb"> Le document notebook est là </a>
 <br/>
 <br/>
