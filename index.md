@@ -35,15 +35,13 @@ Notre équipe composée de KOBANA Johan, DE MYTTENAERE Thomas et CISSE Ousmane s
 
 **Objectifs :** Modéliser l'évolution d'une population ainsi que l'évolution d'un gène au sein de cette population afin de mettre en évidence notre hypothèse.
 
-**Critère(s) d'évaluation :** JSP
-
 
 ### Présentation structurée des résultats
 
 
 **Modélisation :**
 
-Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) 
+voir diapo ?
 
 **Analyse :**
 
